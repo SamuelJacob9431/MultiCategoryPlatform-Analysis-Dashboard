@@ -1,14 +1,11 @@
 # MultiCategoryPlatform-Analysis-Dashboard
 DecodeX Hackathon
-Below is a professionally structured, comprehensive `README.md` file. It is designed to showcase the technical depth of your three-stage optimization process, making it perfect for a GitHub portfolio.
-
----
 
 # Financial Risk & Revenue Optimization Engine
 
 ### *A Three-Stage Prescriptive Analytics Framework*
 
-## 🎯 Project Overview
+## Project Overview
 
 This project addresses the **Revenue-Risk Paradox**: the financial phenomenon where aggressive customer acquisition and gross volume growth lead to non-linear increases in return-related losses. Using a multi-year transactional dataset, I developed a prescriptive engine that transitions from descriptive clustering to risk-adjusted profit maximization.
 
