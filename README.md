@@ -1,6 +1,5 @@
 # MultiCategoryPlatform-Analysis-Dashboard
-DecodeX Hackathon
-
+DecodeX Hackathon Final Round's Work- Financial Risk & Revenue Optimization Engine for a multicategory huge platform for Customer behavioural segmentation, product mix, Structural Shock sensitivity and trade off recognition
 # Financial Risk & Revenue Optimization Engine
 
 ### *A Three-Stage Prescriptive Analytics Framework*
