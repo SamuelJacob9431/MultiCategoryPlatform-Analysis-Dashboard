@@ -64,6 +64,7 @@ $$S_u = ENV_u \times [1 - (\omega \cdot \text{Fragility Penalty})]$$
 ## Recommended CSV files attached for quick uplook.
 ## link: https://multicategoryplatform-analysis-dashboard-xafgs3yd3yiojbcfcjgp4.streamlit.app/
 
----
+## NOTE!
+Please Ensure that the CSV File is similar to the one provided in the Repo with same Column names
 
-Are you planning to include the actual Python scripts and notebooks in this repository, or are you keeping it as a high-level documentation of your process?
+---
